@@ -1,4 +1,4 @@
-Learning-Python
+Learning-Python/string 
 ===============
 
-These documents record my process of learning Python
+
