@@ -1,5 +1,10 @@
 Learning-Python
 ===============
+# python中的数学运算
+
+- 阶乘 import math   math.factorial(5)表示5的阶乘
+
+# 一些小技巧
 
 - raw_input和input的区别
 
